@@ -17,4 +17,4 @@ Those files are Malware-Builders, not samples. ⭕️
 
 Remember to use this for research, analysis and educational reasons only... ;)
 
-dm on @xmarvelowner
+dm on @xmarvelowner on telegram
